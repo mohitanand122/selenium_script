@@ -18,3 +18,5 @@ Steps to Set Up Selenium and MongoDB in Python
 
 5. Run the Script:  
    Ensure MongoDB is running, match the WebDriver to your browser version, and execute the script for web scraping and data storage.
+
+![Screenshot 2025-01-04 183714](https://github.com/user-attachments/assets/7a14005a-c404-4ff1-b667-3b6f4dc5cdde)
